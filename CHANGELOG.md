@@ -1,4 +1,4 @@
-## 0.0.1
+## 0.0.2
 
 * **Docs:** Added `FUNDING.yml` and updated `pubspec.yaml` metadata.
 

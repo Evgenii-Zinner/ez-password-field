@@ -1,0 +1,30 @@
+name: ez_password_field
+description: A highly customizable password field with built-in visibility toggle, configurable validation rules, and robustness features.
+version: 0.0.1
+homepage: https://github.com/Evgenii-Zinner/ez-password-field
+repository: https://github.com/Evgenii-Zinner/ez-password-field
+issue_tracker: https://github.com/Evgenii-Zinner/ez-password-field/issues
+documentation: https://flutter.ezinner.com/ez_password_field
+topics:
+  - flutter
+  - ez-flutter
+  - password
+  - form
+  - input
+funding:
+  - https://github.com/sponsors/Evgenii-Zinner/
+  - https://thanks.dev/u/gh/evgenii-zinner
+  - https://buymeacoffee.com/evgeniizinner
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0

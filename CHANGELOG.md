@@ -1,5 +1,9 @@
 ## 0.0.1
 
+* **Docs:** Added `FUNDING.yml` and updated `pubspec.yaml` metadata.
+
+## 0.0.1
+
 * Initial release of the `ez_password_field` widget.
 * Features:
     * Visibility toggle.
